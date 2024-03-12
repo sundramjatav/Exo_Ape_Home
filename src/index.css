@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "lausanne";
+    src: url("./fonts/TWKLausanne-300.b6399e7.ttf");
+}
+@font-face {
+    font-family: "lausanne-500";
+    src: url("./fonts/TWKLausanne-500.eb0ea77.ttf");
+}
+@font-face {
+    font-family: "lausanne-400";
+    src: url("./fonts/TWKLausanne-400.c74d82a.ttf");
+}
+*{
+    font-family: "lausanne";
+   
+}
